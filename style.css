@@ -1,0 +1,19 @@
+.heading
+{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title
+{
+    color: blue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.photo
+{
+    border: 3px solid orange;
+    border-radius: 25px;
+    
+}
